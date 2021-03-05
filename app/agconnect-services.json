@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"2640052000002383434",
+		"product_id":"736430079244814364",
+		"client_id":"560495733921296768",
+		"client_secret":"386896B64BFD5F5C4D45ECFC7C8248106608FF6BC1EC39BFC29A9EC510D7D5E6",
+		"project_id":"736430079244814364",
+		"app_id":"103850101",
+		"api_key":"CgB6e3x9i51xAxkCW2Yl6h+YuXxNnmWwFrPU4UZN4xHff5VRC7Ytq/zYfw6dReGR5lS8vVuEBJXIMzgCenOjd6M4",
+		"package_name":"com.hms.demo.universitydemo"
+	},
+	"configuration_version":"1.0"
+}
